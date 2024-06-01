@@ -1,0 +1,3 @@
+Astrid|astrid1|Admin
+Adam|adam1|User
+Keith|keith1|User
